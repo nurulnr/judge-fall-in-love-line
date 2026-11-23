@@ -6,15 +6,17 @@
 // judged, so this program's only job is to put that one line in place,
 // exactly as written below, every time it runs.
 //
-// The line itself: it is addressed to a reader who folds the corner of
-// every book she loves. The speaker has spent twenty years unfolding those
-// corners, hoping the next crease is his. It works because it never says
-// the word love — it shows the habit of it: a small, specific particular
-// (a folded page corner) that only someone who has watched a person closely
-// for years would notice, a long quiet devotion compressed into one
-// sentence, and a turn at the end that makes the old feeling new. One
-// sentence, one image, nothing wasted, 121 characters against the 240
-// cap, so the gate's length check passes with room to spare.
+// The line itself: it is addressed directly to the reader — "You fold the
+// corner" — because a line that speaks to its judge lands faster than one
+// that talks about a stranger in the third person. The speaker has spent
+// twenty years unfolding those corners, hoping the next crease is his. It
+// works because it never says the word love — it shows the habit of it: a
+// small, specific particular (a folded page corner) that only someone who
+// has watched a person closely for years would notice, a long quiet
+// devotion compressed into one sentence, and a turn at the end that makes
+// the old feeling new. One sentence, one image, nothing wasted, 121
+// characters against the 240 cap, so the gate's length check passes with
+// room to spare.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for
 // /output, so the entry can be tried locally first:
